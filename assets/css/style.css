@@ -38,7 +38,7 @@ body {
     list-style-type: none;
 } /* Changed element div to nav */
 
-.header div nav li {
+.header nav li {
     display: inline-block;
     margin-left: 25px;
 } /* Changed element div to nav */
